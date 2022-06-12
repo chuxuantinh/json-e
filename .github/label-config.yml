@@ -1,0 +1,39 @@
+"pkg:more":
+  - Json.More/**/*
+
+"pkg:schema":
+  - JsonSchema/**/*
+
+"pkg:schema-generation":
+  - JsonSchema.Generation/**/*
+
+"pkg:schema-datagen":
+  - JsonSchema.DataGeneration/**/*
+
+"pkg:schema-data":
+  - JsonSchema.Data/**/*
+
+"pkg:schema-unique-keys":
+  - JsonSchema.UniqueKeys/**/*
+
+"pkg:logic":
+  - JsonLogic/**/*
+
+"pkg:pointer":
+  - JsonPointer/**/*
+
+"pkg:path":
+  - JsonPath/**/*
+
+"pkg:patch":
+  - JsonPatch/**/*
+
+"documentation":
+  - docs_source/**/*
+
+"build pipeline":
+  - .github/workflows/**/*
+
+"try-me-site":
+  - json-everything.net/**/*
+  - TryJsonEverything/**/*

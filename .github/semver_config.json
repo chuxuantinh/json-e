@@ -1,0 +1,11 @@
+{
+	"settings": {
+		"ruleOverrides": { },
+		"omitDisclaimer": true,
+		"includeHeader": true,
+		"assumeChanges": true
+	},
+	"nuget": {
+		"repositoryUrl": "https://api.nuget.org/"
+	}
+}
